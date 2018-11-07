@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/demo.iml" filepath="$PROJECT_DIR$/.idea/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/../spring-cloud-config-client/spring-cloud-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/../spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-config-server2/spring-cloud-config-server2.iml" filepath="$PROJECT_DIR$/../spring-cloud-config-server2/spring-cloud-config-server2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-cloud-consumer/spring-cloud-consumer.iml" filepath="$PROJECT_DIR$/../spring-cloud-consumer/spring-cloud-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-cloud-consumer2/spring-cloud-consumer2.iml" filepath="$PROJECT_DIR$/../spring-cloud-consumer2/spring-cloud-consumer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-cloud-dashboard/spring-cloud-dashboard.iml" filepath="$PROJECT_DIR$/../spring-cloud-dashboard/spring-cloud-dashboard.iml" />

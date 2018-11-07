@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-config-client" />
         <module name="spring-cloud-config-server" />
+        <module name="spring-cloud-config-server2" />
         <module name="spring-cloud-consumer" />
         <module name="spring-cloud-consumer2" />
         <module name="spring-cloud-dashboard" />
@@ -19,6 +20,8 @@
     <bytecodeTargetLevel>
       <module name="spring-cloud-config-client" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
+      <module name="spring-cloud-config-server-svn" target="1.8" />
+      <module name="spring-cloud-config-server2" target="1.8" />
       <module name="spring-cloud-consumer" target="1.8" />
       <module name="spring-cloud-consumer2" target="1.8" />
       <module name="spring-cloud-dashboard" target="1.8" />

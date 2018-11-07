@@ -1,16 +1,14 @@
-package com.aegis.springcloudconfigserver;
+package com.aegis.springcloudconfigserversvn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
 @SpringBootApplication
 @EnableConfigServer
-@EnableDiscoveryClient
-public class SpringCloudConfigServerApplication {
+public class SpringCloudConfigServerSvnApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(SpringCloudConfigServerApplication.class, args);
+    SpringApplication.run(SpringCloudConfigServerSvnApplication.class, args);
   }
 }
