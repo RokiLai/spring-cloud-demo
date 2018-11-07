@@ -7,13 +7,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../spring-cloud-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-cloud-demo/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-cloud-provider/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-cloud-provider2/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-dashboard/pom.xml" />
-        <option value="$PROJECT_DIR$/../spring-cloud-dashboard/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-consumer2/pom.xml" />
-        <option value="$PROJECT_DIR$/../spring-cloud-consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-config-server/pom.xml" />
       </list>
     </option>
   </component>
